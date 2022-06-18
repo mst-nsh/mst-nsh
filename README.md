@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
