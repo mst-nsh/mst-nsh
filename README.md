@@ -1,4 +1,7 @@
-### Hi there 👋
+# Konnichiwa 👋
+<img width="75%" alt="GIF" align="center" src="https://user-images.githubusercontent.com/67684762/174741366-ec862105-81af-4c06-9c1f-3d28c4e19bfb.gif">
+
+</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
