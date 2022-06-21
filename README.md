@@ -1,5 +1,5 @@
 # Konnichiwa 👋
-<img width="75%" alt="GIF" align="center" src="https://user-images.githubusercontent.com/67684762/174741366-ec862105-81af-4c06-9c1f-3d28c4e19bfb.gif">
+<img width="80%" alt="GIF" align="center" src="https://user-images.githubusercontent.com/67684762/174741366-ec862105-81af-4c06-9c1f-3d28c4e19bfb.gif">
 
 </br>
 
