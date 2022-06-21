@@ -7,7 +7,7 @@
 |:---:|:---:|
 |![](https://github-readme-stats.vercel.app/api?username=mst-nsh&show_icons=true&theme=tokyonight&count_private=true&line_height=40)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-nsh&theme=tokyonight)|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
