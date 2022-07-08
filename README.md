@@ -1,9 +1,9 @@
 # Konnichiwa 👋
 
 <!-- pattern:Blueberry -->
-<div align="center">
+<p align="center">
   <img width="80%" alt="GIF" src="assets/hermippe/空ピラルク.gif">
-</div>
+</p>
 </br>
 
 # Languages & Tools
