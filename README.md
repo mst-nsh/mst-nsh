@@ -1,8 +1,9 @@
 # Konnichiwa 👋
 
 <!-- pattern:Blueberry -->
-<img width="80%" alt="GIF" src="assets/hermippe/空ピラルク.gif">
-
+<p align="center">
+  <img width="80%" alt="GIF" src="assets/hermippe/空ピラルク.gif">
+</p>
 </br>
 
 # Languages & Tools
@@ -23,7 +24,9 @@
 | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=mst-nsh&show_icons=true&theme=tokyonight&count_private=true&line_height=40) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-nsh&theme=tokyonight) |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+|                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------: |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) |
 
 <!-- pattern:Green -->
 <!-- <img width="80%" alt="GIF" src="assets/hermippe/おばけソテツとラピュータ.gif">
