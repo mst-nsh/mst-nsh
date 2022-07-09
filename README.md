@@ -4,6 +4,7 @@
 <p align="center">
   <img width="80%" alt="GIF" src="assets/hermippe/空ピラルク.gif">
 </p>
+
 </br>
 
 # Languages & Tools
@@ -30,8 +31,10 @@
   </a>
 </p>
 
-<!-- pattern:Green -->
-<!-- <img width="80%" alt="GIF" src="assets/hermippe/おばけソテツとラピュータ.gif">
+<!-- pattern:Lime -->
+<!-- <p align="center">
+  <img width="80%" alt="GIF" src="assets/hermippe/おばけソテツとラピュータ.gif">
+</p>
 
 </br>
 
@@ -52,4 +55,8 @@
 | :---------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=mst-nsh&show_icons=true&theme=dark&count_private=true&line_height=40) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-nsh&theme=dark) |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p align="center">
+  <a  href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mst-nsh&column=-1&theme=matrix"/>
+  </a>
+</p> -->
