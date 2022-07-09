@@ -24,8 +24,11 @@
 | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=mst-nsh&show_icons=true&theme=tokyonight&count_private=true&line_height=40) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-nsh&theme=tokyonight) |
 
-{: align="center"}
-[![trophy](https://github-profile-trophy.vercel.app/?username=mst-nsh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a  href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mst-nsh&column=-1&theme=discord"/>
+  </a>
+</p>
 
 <!-- pattern:Green -->
 <!-- <img width="80%" alt="GIF" src="assets/hermippe/おばけソテツとラピュータ.gif">
