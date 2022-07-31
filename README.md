@@ -2,7 +2,7 @@
 
 <!-- pattern:Blueberry -->
 <p align="center">
-  <img width="80%" alt="GIF" src="assets/hermippe/空ピラルク.gif">
+  <img width="80%" alt="GIF" src="assets/hermippe/夜に見つけた男と火.gif">
 </p>
 
 </br>
