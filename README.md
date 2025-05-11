@@ -1,7 +1,7 @@
 # Konnichiwa 👋
 
 <!-- pattern:Blueberry -->
-<p align="center">
+<!-- <p align="center">
   <img width="80%" alt="GIF" src="assets/hermippe/夜に見つけた男と火.gif">
 </p>
 
@@ -12,10 +12,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-555?style=flat-square&logo=TypeScript"/>
   <img src="https://img.shields.io/badge/-JavaScript-555?style=flat-square&logo=JavaScript"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular"/>
-  <img src="https://img.shields.io/badge/-Vue.js-555?style=flat-square&logo=Vue.js"/>
-  <img src="https://img.shields.io/badge/-Nuxt.js-555?style=flat-square&logo=Nuxt.js"/>
-  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/-Angular-555?style=flat-square&logo=Angular"/>
+  <img src="https://img.shields.io/badge/-Vue.js-555?style=flat-square&logo=vuedotjs"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-555?style=flat-square&logo=nuxt"/>
+  <img src="https://img.shields.io/badge/-React-555?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-555?style=flat-square&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/-MacBook-555?style=flat-square&logo=Apple"/>
 </p>
 
@@ -29,10 +30,10 @@
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mst-nsh&column=-1&theme=discord"/>
   </a>
-</p>
+</p> -->
 
 <!-- pattern:Lime -->
-<!-- <p align="center">
+<p align="center">
   <img width="80%" alt="GIF" src="assets/hermippe/おばけソテツとラピュータ.gif">
 </p>
 
@@ -41,12 +42,14 @@
 # Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-555?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/-JavaScript-555?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular"/>
-  <img src="https://img.shields.io/badge/-Vue.js-555?style=flat-square&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code"/>
-  <img src="https://img.shields.io/badge/-MacBook-555?style=flat-square&logo=apple"/>
+  <img src="https://img.shields.io/badge/-TypeScript-555?style=flat-square&logo=TypeScript"/>
+  <img src="https://img.shields.io/badge/-JavaScript-555?style=flat-square&logo=JavaScript"/>
+  <img src="https://img.shields.io/badge/-Angular-555?style=flat-square&logo=Angular"/>
+  <img src="https://img.shields.io/badge/-Vue.js-555?style=flat-square&logo=vuedotjs"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-555?style=flat-square&logo=nuxt"/>
+  <img src="https://img.shields.io/badge/-React-555?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-555?style=flat-square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/-MacBook-555?style=flat-square&logo=Apple"/>
 </p>
 
 # Status
@@ -59,4 +62,4 @@
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mst-nsh&column=-1&theme=matrix"/>
   </a>
-</p> -->
+</p>
