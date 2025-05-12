@@ -10,6 +10,8 @@
 # Languages & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-555?style=flat-square&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS-555?style=flat-square&logo=CSS"/>
   <img src="https://img.shields.io/badge/-TypeScript-555?style=flat-square&logo=TypeScript"/>
   <img src="https://img.shields.io/badge/-JavaScript-555?style=flat-square&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-Angular-555?style=flat-square&logo=Angular"/>
@@ -42,6 +44,8 @@
 # Languages & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-555?style=flat-square&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS-555?style=flat-square&logo=CSS"/>
   <img src="https://img.shields.io/badge/-TypeScript-555?style=flat-square&logo=TypeScript"/>
   <img src="https://img.shields.io/badge/-JavaScript-555?style=flat-square&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-Angular-555?style=flat-square&logo=Angular"/>
